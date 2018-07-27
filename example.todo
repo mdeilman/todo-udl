@@ -1,0 +1,30 @@
+== Text Message ==
+
+=== big chunk of work ==={
+
+[ ] Task title goes here // comment put here
+
+== examples ==
+
+[!] not done // important task
+[*] task in progress // working on it
+[x] task done // done
+[-] task blocked // blocked
+[+] tbd
+[@] tbd
+[?] tbd
+[ ] other task <due next monday>
+// angle brackets are nice to specify a <due date> for instance
+
+(plain text is not impacted by coloration
+
+== title to split tasks ==
+// Note the '-', notepad can fold/unfold these blocks 
+
+[ ] This is a macro task{ // note the {braces}!
+	[ ] subtask 1
+	[ ] subtask 2
+	[ ] subtask 3
+}
+}
+
